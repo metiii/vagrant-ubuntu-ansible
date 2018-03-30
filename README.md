@@ -1,3 +1,8 @@
+# vagrant-ubuntu-ansible
+Got the below project to allow ssh from client to web and db without any further configuration.
+Ansible is installed on the client node and ready to run plays against the other servers.
+
+
 # lab-ansible
 This repository is part of lab for the *NYU DevOps* class for Fall 2017, [CSCI-GA.3033-013](http://cs.nyu.edu/courses/fall17/CSCI-GA.3033-014/) on using Ansible for Configuration Management.
 
